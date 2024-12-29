@@ -10,7 +10,7 @@
                         <img class="rounded-md" src="{{ $post['image'] }}" alt="{{ $post['title'] }}">
                     </div>
                     <div class="flex items-center mt-3 gap-x-4 text-xs">
-                        <time datetime="2020-03-16" class="text-gray-500">{{ $post['date'] }}</time>
+                        <time datetime="2020-0~3-16" class="text-gray-500">{{ $post['date'] }}</time>
                         <a href="#"
                             class="relative z-10 rounded-full bg-gray-50 px-3 py-1.5 font-medium text-gray-600 hover:bg-gray-100">{{ $post['category'] }}</a>
                     </div>
